@@ -1,6 +1,14 @@
 body {
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+
+.content {
   width: 70%;
   margin: auto;
+  background-color: #fff;
+  height: 2500px;
 }
 
 img.beach {
