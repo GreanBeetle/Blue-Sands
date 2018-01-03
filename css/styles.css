@@ -16,9 +16,20 @@ p.intro {
 }
 
 p {
-  
+
 }
 
 a {
+
+}
+
+img.beach {
+  border-radius: 8px;
+}
+
+.menu {
+  background-color: gray;
+  font-family: sans-serif;
+  font-size: 16pt;
 
 }
